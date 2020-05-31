@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVMRetrofitMovies</string>
+    <string name="api_key">ea118ccef82293f9dc94e965411c4e9c</string>
+</resources>
