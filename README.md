@@ -1,5 +1,5 @@
 # MVVMRetrofitMovies
-Movie application. MVVM + Retrofit2 + ViewModel + DataBinding + PagigLibrary
+Movie application. MVVM + Retrofit2 + ViewModel + DataBinding + PagingLibrary
 
 Display popular movies with using [The MovieDB](https://api.themoviedb.org)
 Scroll down and movies will appear
